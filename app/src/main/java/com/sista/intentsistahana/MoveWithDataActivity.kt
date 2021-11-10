@@ -21,6 +21,7 @@ class MoveWithDataActivity : AppCompatActivity() {
         button.setOnClickListener(){
             super.onBackPressed();
         }
+
     }
 
     private fun DataReceived() {

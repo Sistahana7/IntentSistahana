@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/user/Documents/GitHub/IntentSistahana/IntentSistahana/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/user/Documents/GitHub/IntentSistahana/IntentSistahana/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/user/Documents/GitHub/IntentSistahana/IntentSistahana/app/src/main/res/layout/activity_move.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/user/Documents/GitHub/IntentSistahana/IntentSistahana/app/src/main/res/layout/activity_move_for_result.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/user/Documents/GitHub/IntentSistahana/IntentSistahana/app/src/main/res/layout/activity_move_with_data.xml" value="0.21041666666666667" />
       </map>
     </option>
